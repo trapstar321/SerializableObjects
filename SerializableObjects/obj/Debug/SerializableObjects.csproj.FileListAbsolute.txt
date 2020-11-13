@@ -1,0 +1,6 @@
+C:\Users\tomicaj\source\repos\SerializableObjects\SerializableObjects\bin\Debug\SerializableObjects.dll
+C:\Users\tomicaj\source\repos\SerializableObjects\SerializableObjects\bin\Debug\SerializableObjects.pdb
+C:\Users\tomicaj\source\repos\SerializableObjects\SerializableObjects\obj\Debug\SerializableObjects.csprojAssemblyReference.cache
+C:\Users\tomicaj\source\repos\SerializableObjects\SerializableObjects\obj\Debug\SerializableObjects.csproj.CoreCompileInputs.cache
+C:\Users\tomicaj\source\repos\SerializableObjects\SerializableObjects\obj\Debug\SerializableObjects.dll
+C:\Users\tomicaj\source\repos\SerializableObjects\SerializableObjects\obj\Debug\SerializableObjects.pdb
