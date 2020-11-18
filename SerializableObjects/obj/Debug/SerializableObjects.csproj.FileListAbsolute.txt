@@ -4,3 +4,9 @@ C:\Users\tomicaj\source\repos\SerializableObjects\SerializableObjects\obj\Debug\
 C:\Users\tomicaj\source\repos\SerializableObjects\SerializableObjects\obj\Debug\SerializableObjects.csproj.CoreCompileInputs.cache
 C:\Users\tomicaj\source\repos\SerializableObjects\SerializableObjects\obj\Debug\SerializableObjects.dll
 C:\Users\tomicaj\source\repos\SerializableObjects\SerializableObjects\obj\Debug\SerializableObjects.pdb
+D:\UnityProjects\OceanGoldz\SerializableObjects\SerializableObjects\bin\Debug\SerializableObjects.dll
+D:\UnityProjects\OceanGoldz\SerializableObjects\SerializableObjects\bin\Debug\SerializableObjects.pdb
+D:\UnityProjects\OceanGoldz\SerializableObjects\SerializableObjects\obj\Debug\SerializableObjects.csprojAssemblyReference.cache
+D:\UnityProjects\OceanGoldz\SerializableObjects\SerializableObjects\obj\Debug\SerializableObjects.csproj.CoreCompileInputs.cache
+D:\UnityProjects\OceanGoldz\SerializableObjects\SerializableObjects\obj\Debug\SerializableObjects.dll
+D:\UnityProjects\OceanGoldz\SerializableObjects\SerializableObjects\obj\Debug\SerializableObjects.pdb
