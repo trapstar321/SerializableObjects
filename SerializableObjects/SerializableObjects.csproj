@@ -46,6 +46,7 @@
     <Compile Include="InventorySlot.cs" />
     <Compile Include="Item.cs" />
     <Compile Include="ItemDrop.cs" />
+    <Compile Include="Message.cs" />
     <Compile Include="PlayerData.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -15,5 +15,6 @@ namespace SerializableObjects
         public float Y;
         public float Z;
         public float Y_rot;
+        public string username;
     }
 }
