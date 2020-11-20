@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="BaseStat.cs" />
     <Compile Include="Experience.cs" />
+    <Compile Include="Group.cs" />
     <Compile Include="InventorySlot.cs" />
     <Compile Include="Item.cs" />
     <Compile Include="ItemDrop.cs" />
