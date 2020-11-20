@@ -11,6 +11,7 @@ namespace SerializableObjects
     {
         public int groupId;
         public string name;
+        public string owner;
         public int playerCount;
     }
 }
