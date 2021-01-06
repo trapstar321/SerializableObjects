@@ -24,5 +24,6 @@ namespace SerializableObjects
         public int cannon_reload_speed;
         public int crit_chance;
         public int cannon_force;
+        public bool stackable;        
     }
 }
